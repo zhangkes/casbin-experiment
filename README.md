@@ -1,2 +1,5 @@
 # casbin-experiment
-usage of casbin
+Casbin ABAC test
+
+reference:
+https://github.com/studyzy/abactest
